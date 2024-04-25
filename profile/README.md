@@ -1,6 +1,6 @@
 ## Project Catalog for use with [Spring CLI](https://docs.spring.io/spring-cli/reference/index.html)
 
-### Reference implementations of Patterns supported on [DaShaun.cloud](https://dashaun.cloud)
+#### Reference implementations of Patterns supported on [DaShaun.cloud](https://dashaun.cloud)
 
 - 🆕 Use the latest version of Spring Boot and Java 21
 - 🌈 Friends don't let friends use Dockerfile, use [Paketo](https://paketo.io)[Buildpacks](https://buildpacks.io)

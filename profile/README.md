@@ -1,12 +1,13 @@
 ## Project Catalog for use with [Spring CLI](https://docs.spring.io/spring-cli/reference/index.html)
 
-<!--
+### Reference implementations
+### Patterns support by [DaShaun.cloud](https://dashaun.cloud)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🆕 Use the latest version of Spring Boot and Java 21
+🌈 Friends don't let friends use Dockerfile, use [Paketo](https://paketo.io)[Buildpacks](https://buildpacks.io)
+🚝 Monoliths are cool again, start with Spring Modulith
+💹 Spring Observability with [Tempo](https://grafana.com/oss/tempo/)[Loki](https://grafana.com/oss/loki/)[Prometheus](https://prometheus.io/)
+🛰️ Spring AI, local preferred
+🟥 Redis, RabbitMQ, Gemfire and Postgres
+🧪 Test Driven Documentation (the other TDD) and Testcontainers
+🚸 Active-active, multi-private-cloud
